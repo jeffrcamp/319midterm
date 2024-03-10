@@ -1,0 +1,17 @@
+.author-info {
+    background-color: #f8f9fa; 
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(124, 72, 72, 0.1); 
+}
+
+.author-info h1 {
+    font-size: 32px; 
+    color: #343a40; 
+}
+
+.author-info ul li {
+    font-size: 18px; 
+    margin-bottom: 15px; 
+    color: #484b4e; 
+}

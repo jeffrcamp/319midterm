@@ -1,0 +1,28 @@
+[
+    {
+        "brand": "Lamborghini",
+        "price_range": "$52,580 - $825,914 ",
+        "image": "images/lamborghini.jpg",
+        "description": "Lamborghini cars are the epitome of automotive excellence, blending cutting-edge technology with stunning design. Take the Huracán, for instance. Its sleek lines and powerful V10 engine deliver breathtaking performance and precise handling. Meanwhile, the Aventador, with its striking design and monstrous V12 engine, sets new standards for speed and control. Inside, Lamborghini interiors marry luxury with functionality, offering an immersive driving experience. With a relentless commitment to innovation, Lamborghini continues to push the boundaries of automotive engineering, captivating enthusiasts worldwide."
+    },
+    {
+        "brand": "Ferrari",
+        "price_range": "$44,990- $3,295,947",
+        "image": "images/ferrari.jpg",
+        "description": " Ferrari, synonymous with speed and luxury, crafts high-performance sports cars that embody Italian flair. The Ferrari 488 GTB, with its sleek design and powerful V8 engine, offers blistering acceleration and precise handling. Meanwhile, the SF90 Stradale represents Ferrari's innovation, blending a V8 engine with electric motors for over 1,000 horsepower. Inside, Ferrari interiors marry luxury with technology, enhancing the driving experience. With a rich racing heritage and relentless pursuit of excellence, Ferrari continues to captivate enthusiasts worldwide."
+    },
+    {
+        "brand": "McLaren",
+        "price_range": " $325,000 - $593,700 ",
+        "image": "images/mclaren.jpg",
+        "description": "McLaren, renowned for its dedication to performance and precision, produces high-performance sports cars that epitomize innovation and speed. The McLaren 720S, for instance, showcases a striking design and a potent twin-turbo V8 engine, delivering exhilarating acceleration and agile handling. Similarly, the McLaren P1 hybrid hypercar combines a powerful engine with electric motors for breathtaking performance. Inside, McLaren cabins are designed for driver engagement and luxury. With a rich racing pedigree and relentless pursuit of excellence, McLaren continues to push the boundaries of automotive engineering, captivating enthusiasts globally."
+    },
+    {
+        "brand": "Bugatti",
+        "price_range": " $1.7 million - $18.7 million",
+        "image": "images/bugatti.jpg",
+        "description": "Bugatti, synonymous with automotive excellence, creates some of the most exquisite and powerful cars in the world. Take the Bugatti Chiron, for example. With its iconic design and quad-turbocharged W16 engine, the Chiron offers unparalleled speed and performance, pushing the boundaries of what's possible in automotive engineering. Additionally, the Bugatti Divo, with its aerodynamic prowess and track-focused design, further demonstrates Bugatti's commitment to innovation and performance. Inside, Bugatti cabins blend luxury with cutting-edge technology, providing an opulent driving experience. With a rich history and relentless pursuit of perfection, Bugatti continues to captivate automotive enthusiasts worldwide, setting new standards for speed, luxury, and craftsmanship."
+    }
+]
+
+
